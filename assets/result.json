@@ -1,0 +1,15 @@
+[
+  {
+    "entj": {
+      "summary": "요약",
+      "조언": "조언",
+      "mainImage" : "assets/image/mainImage.png"
+    }
+  },
+  {
+    "infp": {
+      "summary": "요약",
+      "조언": "조언"
+    }
+  }
+]
